@@ -3,7 +3,7 @@
 
 
 <pre>
-💻 I am developing my skills as a Fullstack Developer 
+💻 I'm developing my skills as a Fullstack Developer 
 📚 I'm currently studying software and systems engineering
 🌟 Main languages: C++, Python, Java 
 </pre>
